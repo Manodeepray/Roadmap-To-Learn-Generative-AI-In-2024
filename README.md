@@ -68,6 +68,6 @@
 
 
 
-
-
+## ml ops series
+https://youtu.be/1BSwYlJUxK0?si=H3WK7qSO4eVrV-6p
 
