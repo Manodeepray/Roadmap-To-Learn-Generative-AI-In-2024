@@ -71,3 +71,6 @@
 ## ml ops series
 https://youtu.be/1BSwYlJUxK0?si=H3WK7qSO4eVrV-6p
 
+## ml maths
+
+https://youtu.be/3eSVw8zn8DU?si=ma-REQVKyIbqJL7a
